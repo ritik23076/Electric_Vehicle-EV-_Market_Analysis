@@ -5,7 +5,8 @@ To. Understand the overall landscape of electric vehicles, encompassing both BEV
 
 A comprehensive HR analytics project focused on the electric vehicle (EV) industry, utilizing **Tableau** and **Excel 2021** to extract key insights and visualize trends in Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). This project highlights crucial KPIs and visual analytics designed for strategic decision-making.
 
-![EV_Market_Analysis Preview](./Background%20.png)
+![EV_Market_Analysis Preview](Background.png)
+
 
 ---
 
